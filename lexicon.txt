@@ -1,0 +1,12 @@
+DT -> the singular plural
+DT -> a singular
+N -> man singular
+N -> woman singular
+N -> dog singular
+N -> women plural
+N -> men plural
+JJ -> green singular plural
+V -> likes singular
+V -> bites singular
+V -> bite plural
+V -> like plural

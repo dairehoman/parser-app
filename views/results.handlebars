@@ -1,0 +1,34 @@
+<p style="  width:60%;
+            height:30%;
+            position:fixed;
+            left:20%;
+            right:20%;
+            top:20%;
+            font-size:21px;
+            text-align:center;">
+
+<font color="green">VALID :-)</font><br><br>
+<em>"{{original}}"</em><br><br>
+<b>S</b>[
+    <b>NP</b>
+    [
+        <b>DT</b>[ <font color="green">{{np_dt.ROOT}}</font> ] 
+        {{#if np_jj.ROOT}}<b>JJ</b>[ <font color="green">{{np_jj.ROOT}}</font> ]{{/if}}
+        <b>N</b>[ <font color="green">{{np_n.ROOT}}</font> ]   
+    ]
+    {{#if vp_v}}<b>VP</b>
+    [
+        <b>V</b>[ <font color="green">{{vp_v.ROOT}}</font> ]
+        <b>NP</b>
+        [
+            <b>DT</b>[ <font color="green">{{vp_np_dt.ROOT}}</font> </font>] 
+            {{#if vp_np_jj.ROOT}}<b>JJ</b>[ <font color="green">{{vp_np_jj.ROOT}}</font> ]{{/if}}
+            <b>N</b>[ <font color="green">{{vp_np_n.ROOT}}</font> ]
+        ]
+    ]
+    {{/if}}
+]
+<br>
+<br>
+<a href="/">try again</a>
+</p>
