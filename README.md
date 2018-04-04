@@ -17,4 +17,4 @@ if you don't have a copy of the code submission, you can clone this repository(p
     ```$npm install```
     3. to start the server, type:   
     ```$node app```   
-    4. naviagte to [http://localhost:3000/](http://localhost:3000/) in your browser
+    4. navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
