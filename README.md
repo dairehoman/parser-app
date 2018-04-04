@@ -18,3 +18,4 @@ if you don't have a copy of the code submission, you can clone this repository(p
     3. to start the server, type:   
     ```$node app```   
     4. navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
+    5. when you're done, kill the app in the console ```ctrl-c```
