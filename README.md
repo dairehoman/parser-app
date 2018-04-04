@@ -9,7 +9,7 @@ to install visit [nodejs.org/download](https://nodejs.org/en/download/) - and do
 
 * **get the code**   
 if you don't have a copy of the code submission, you can clone this repository(provided you have git installed)   
- ```$git clone repo-url```   
+ ```$git clone https://github.com/dairehoman/parser-app.git```   
 
 * *now that you've got the code*   
     1. open up the project in your editor
