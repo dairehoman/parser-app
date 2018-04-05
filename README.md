@@ -2,6 +2,16 @@
 **ahlt assignment - daire homan - b00029598**
 
 
+**assignment-spec**   
+Describe, design and implement in software a parser for regular expressions using the programming language of your choice.
+
+INPUT: The parser should take as input and analyse a set of regular expressions taken from the acceptable sentences below:   
+
+The/a man/men/woman/women bite(s)/like(s) the green dog   
+
+OUTPUT: Input sentence that should be parsed, and either accepted or rejected as a valid regular expression. The output should be bracketed phrasal structure for the sentence as far as it is grammatical.
+
+
 **to run the app:**   
 If you haven't already, you will need to:  
 * **install node.js**  
