@@ -2,7 +2,11 @@ const
     token =     require('./../util/token')
     load =      require('./../util/load')
     log =       require('./../util/log')
-    
+
+/**
+ * @module gen
+ * @returns a valid lexicon object from the txt file
+ */
 gen = (  ) => {
 
     return token(load('././lexicon.txt'), 'file')

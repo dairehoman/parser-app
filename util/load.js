@@ -2,6 +2,11 @@ const
     fs = require('fs')
     log = require('./log')
 
+/**
+ * @module load
+ * @arg path - path of the file to read from the file system
+ * @returns raw data from whatever file is loaded
+ */
 let load = (path) => {
     try {
         return fs.readFileSync(path, 'utf8')
