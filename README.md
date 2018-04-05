@@ -22,10 +22,10 @@ if you don't have a copy of the code submission(submitted to moodle), if you wan
  ```$git clone https://github.com/dairehoman/parser-app.git```
 
 * **now that you've got the code**   
-    1. open up the project in your editor
-    2. open up the console at the root of the project directory and type:   
-    ```$npm install```
-    3. to start the server, type:   
-    ```$node app```   
-    4. navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
-    5. when you're done, kill the app in the console ```ctrl-c```
+1. open up the project in your editor
+2. open up the console at the root of the project directory and type:   
+```$npm install```
+3. to start the server, type:   
+```$node app```   
+4. navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
+5. when you're done, kill the app in the console ```ctrl-c```
