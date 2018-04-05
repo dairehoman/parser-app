@@ -18,8 +18,6 @@ parse = ( args ) => {
     const SENTENCE = []
     const leninpt =    usrinpt.length
     lxcn =           gen()
-    log(usrinpt.length)
-
 
     /**
     *   function sentence-1;
