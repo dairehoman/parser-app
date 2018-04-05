@@ -1,4 +1,5 @@
 /**
+ * @author daire homan - b00029598
  * @module log
  * @arg x - data to be logged to the console
  * this utility is mainly used for development

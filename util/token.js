@@ -1,4 +1,5 @@
 /**
+ * @author daire homan - b00029598
  * @module token
  * @arg arg - data to be tokenised
  * @arg type - if its raw data from a file that needs

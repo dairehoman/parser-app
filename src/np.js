@@ -6,6 +6,7 @@ const
     err_rule =     'error: this sequence of words violates the rewrite rules'
 
 /**
+ * @author daire homan - b00029598
  * @module np
  * @arg args - userinput passed from the parser
  * @returns a valid NOUN_PHRASE object

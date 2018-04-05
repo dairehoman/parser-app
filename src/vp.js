@@ -5,6 +5,7 @@ const
     lxcn_pth =  '../lexicon.txt'
 
 /**
+ * @author daire homan - b00029598
  * @module vp
  * @arg args - userinput passed from the parser
  * @returns a valid VERB_PHRASE object

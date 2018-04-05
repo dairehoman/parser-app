@@ -8,8 +8,8 @@ If you haven't already, you will need to:
 to install visit [nodejs.org/download](https://nodejs.org/en/download/) - and download the installer for your OS. npm(node package manager) is distributed with node.js - which means that when you download node.js, npm is automatically installed and ready to use.   
 
 * **get the code**   
-if you don't have a copy of the code submission, you can clone this repository(provided you have git installed)   
- ```$git clone https://github.com/dairehoman/parser-app.git```   
+if you don't have a copy of the code submission(submitted to moodle), if you want, you can clone this repository(provided you have git installed)   
+ ```$git clone https://github.com/dairehoman/parser-app.git```
 
 * *now that you've got the code*   
     1. open up the project in your editor

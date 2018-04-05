@@ -7,6 +7,7 @@ const
     err_num =   'error: number agreement is incorrect'
 
 /**
+ * @author daire homan - b00029598
  * @module parse
  * @arg args - raw userinput passed from the application
  * @returns a valid SENTENCE object

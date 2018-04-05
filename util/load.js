@@ -3,6 +3,7 @@ const
     log = require('./log')
 
 /**
+ * @author daire homan - b00029598
  * @module load
  * @arg path - path of the file to read from the file system
  * @returns raw data from whatever file is loaded
